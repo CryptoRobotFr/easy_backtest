@@ -4,10 +4,17 @@ Vous retrouverez ici une liste de backtest qui peuvent être éxécuter très fa
 
 ## Liste des vidéos présentant des stratégies disponibles dans ce répertoire:  
 
-- [La statégie du Trix](https://www.youtube.com/watch?v=uE04UROWkjs)
+- [Stratégie - Trix](https://www.youtube.com/watch?v=uE04UROWkjs)
 
-- [La stratégie de l'Aligator](https://www.youtube.com/watch?v=tHYs5135jUA)
+- [Stratégie - Aligator](https://www.youtube.com/watch?v=tHYs5135jUA)
 
-- [Le DCA optimisé](https://www.youtube.com/watch?v=_zM6K9oI-DM)
+- [Stratégie - Super Reversal](https://www.youtube.com/watch?v=Mqriz5YfrJo)
 
-- [Le Grid Trading](https://www.youtube.com/watch?v=xeeWA6GKSek)
+- [Stratégie - DCA optimisé](https://www.youtube.com/watch?v=_zM6K9oI-DM)
+
+- [Stratégie - Grid Trading](https://www.youtube.com/watch?v=xeeWA6GKSek)
+
+- [Review stratégie 1](https://www.youtube.com/watch?v=4g2XTox0uRI)
+
+- [Review stratégie 2](https://www.youtube.com/watch?v=V-F4IZv-SQA)
+
